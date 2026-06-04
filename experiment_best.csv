@@ -1,0 +1,2 @@
+model,balanced_acc,accuracy,roc_auc,f1_macro
+XGB,0.735,0.85,0.842,0.758
